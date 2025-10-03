@@ -1,4 +1,4 @@
-const API_KEY = process.env.VITE_TMDB_API_KEY//Because it's bad practice to make API key so easily accessible in the source code or repo.
+const API_KEY = import.meta.env.VITE_TMDB_API_KEY//Because it's bad practice to make API key so easily accessible in the source code or repo.
 const BASE_URL = "https://api.themoviedb.org/3";
 
 export const getPopularMovies = async () => {
