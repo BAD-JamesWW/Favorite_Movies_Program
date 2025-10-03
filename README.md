@@ -1,16 +1,26 @@
-# React + Vite
+# Favorite Movies Program
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek **movie discovery and search app** powered by The Movie Database (TMDb) API.
+Designed for movie lovers to easily explore popular titles and search for films in real time.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* 🎬 Browse popular and trending movies
+* 🔍 Search for movies by title with instant results
+* ⚛️ Built with React + Vite for a fast, modern dev experience
+* 🎨 Styled with responsive CSS for a clean and user-friendly interface
+* 🌐 Fetches live movie data from the TMDb API
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* React (Frontend)
+* Vite (Build tool)
+* JavaScript
+* CSS
+* HTML
+* TMDb API (for movie data)
+* Deployed via Netlify [Live](https://jww-favoritemoviesprogram.netlify.app/)
 
-## Expanding the ESLint configuration
+## Purpose
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Created as part of my [portfolio](https://jww-webportfolio.netlify.app/) to showcase strong **frontend development skills** and API integration, highlighting my ability to build functional, user-focused applications.
